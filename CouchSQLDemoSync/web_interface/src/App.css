@@ -1,0 +1,45 @@
+.App {
+  width: 90%;
+  margin: 24px auto 24px auto;
+}
+
+.Margin-8 {
+    margin: 8px;
+}
+
+.Text-Center {
+    text-align: center;
+}
+
+.Text-Left {
+    text-align: left;
+}
+
+.Text-Right {
+    float: right;
+}
+
+
+.Padding-4 {
+    padding: 4px;
+}
+
+.Onhover-Pointer:hover {
+    cursor: pointer;
+}
+
+.Onhover-Fat:hover {
+    font-weight: bold;
+}
+
+.ChildElem {
+    padding-left: 8px;
+}
+
+.Margin-Bottom-8px {
+    margin-bottom: 8px;
+}
+
+.Input-MinWidth-300 {
+    width: 300px;
+}
